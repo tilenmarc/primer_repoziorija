@@ -1,5 +1,5 @@
-def hello_world():
-    print("hello world")
+def hello_world(n):
+    print("hello world", n)
 
 def bla():
     print("bla")
