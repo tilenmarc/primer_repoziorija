@@ -1,5 +1,5 @@
-def hello_world(x, niz):
-    print("hello world", x)
+def hello_world(n, niz):
+    print("hello world", n)
     print("niz")
 
 
