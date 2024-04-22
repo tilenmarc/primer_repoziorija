@@ -1,6 +1,7 @@
-def hello_world():
-    print("hello world")
+def hello_world(x, niz):
+    print("hello world", x)
+    print("niz")
+
 
 def bla():
     print("bla")
-    
