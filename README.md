@@ -8,7 +8,7 @@ Ta repozitoij je primer, ki ga delamo pri predmetu UVP.
 
 ## Vec opisa
 
-_Povdarjen tekst_ sdfasdf [link](https://github.com/tilenmarc/primer_repoziorija/edit/main/README.md)
+_Poudarjen tekst_ sdfasdf [link](https://github.com/tilenmarc/primer_repoziorija/edit/main/README.md)
 
 Vec teksta.
 
